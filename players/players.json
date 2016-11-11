@@ -1,0 +1,12 @@
+[
+  {
+    "age": 35,
+    "single": true,
+    "name": "Chipa"
+  },
+  {
+    "age": 37,
+    "single": false,
+    "name": "Ramiro"
+  }
+]

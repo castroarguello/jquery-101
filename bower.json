@@ -1,0 +1,6 @@
+{
+  "name": "jquery-101",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
