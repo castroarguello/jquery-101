@@ -1,4 +1,4 @@
-# jQuery Example
+# jQuery 101
 
 ## Clone
 
