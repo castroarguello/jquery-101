@@ -12,4 +12,7 @@
 ## Run
 
   1. http-server
-    
+
+Point your browser to your localhost:
+  
+  * http://127.0.0.1:8080
